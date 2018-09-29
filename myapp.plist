@@ -13,7 +13,7 @@
      <string>longcheng</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://test.tuantuangame.com/ios/v1.00/client/longcheng_18093001.ipa</string>
+     <string>https://github.com/zhaoyunpeng123/iosTest-nomobile-nomac/blob/master/myapp.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
@@ -38,7 +38,7 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.justep.x5.demo</string>
+    <string>test.lc218.lcgame</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
