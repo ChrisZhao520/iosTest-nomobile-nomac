@@ -10,7 +10,7 @@
    <array>
     <dict>
      <key>kind</key>
-     <string>longcheng</string>
+     <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
      <string>http://test.tuantuangame.com/ios/v1.00/client/myapp.ipa</string>
